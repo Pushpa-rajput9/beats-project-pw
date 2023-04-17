@@ -11,3 +11,5 @@ This page includes different types of headphones available for purchase, such as
 Each page provides an easy-to-use shopping cart option with a “buy now” button, allowing users to select the products they want to purchase and add the items to their cart. Users can also create an account and log in to ensure a fast checkout experience.
 
 Overall, this project provides a straightforward and intuitive platform for showcasing various audio products and accessories in a user-friendly interface. The project can be customized and extended to include other product lines and additional features. The project uses HTML and CSS, making it flexible and customizable, making it an ideal choice for online retail platforms.
+
+Live site :- https://incandescent-pudding-e15f8a.netlify.app/
