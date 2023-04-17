@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Mochiy Pop One', sans-serif;
+font-family: 'Poppins', sans-serif;
+   background-color: rgb(18, 17, 17);
+}
+.logo{
+    height: 50px;
+    
+    padding-left: 20%;
+}
+nav{
+    padding-left: 0%;
+    padding-top: 4%;
+    display: grid;
+    grid-template-columns:500px 100px 100px 100px  100px 100px;
+    grid-template-rows: 50px;
+    column-gap: 30px;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-size: large;
+    font-weight: 600;
+    cursor: pointer;
+}
+nav button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 35px;
+    padding: 8px 5px 8px 5px;
+    width: 100px;
+    background-color: #242222;
+    color: white;
+    font-size: medium;
+    font-weight: 500;
+    border-radius: 7px;
+    border-left: 3px solid grey;
+    border-top: 3px solid grey;
+    cursor: pointer;
+}
+.imgspecs{
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    padding-top: 4%;
+}
+.imgspecs img{
+    height: 100px;
+    width: 300px;
+}
+main{
+    color: white;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr;
+    justify-items: center;
+    padding-top: 3%;
+}
+i{
+    
+color: white;
+
+}
+.bluetooth{
+padding-bottom: 30px;
+padding-left: 50px;
+}
+.battery{
+    padding-bottom: 40px;
+}
+.load{
+    padding-bottom: 40px;
+}
+.microphone{
+    padding-bottom: 30px;
+    padding-left: 50px;
+    }
+    .left{
+        padding-left: 25%;  
+    }
+.right{
+   padding-right: 20%;
+}
